@@ -20,4 +20,4 @@ Then just start docker:
 docker-compose up
 ```
 
-Demo site available at [mock-server.sapui5.test](http://mock-server.sapui5.test/index.html)
+Demo site available at [mock-server.sapui5.test](http://mock-server.sapui5.test/test/mockServer.html)
